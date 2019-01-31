@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1493233526 source:e:\gi01\nf16\tp3\tp3\main.c
+	"tp3.h"
+
+1492092900 e:\gi01\nf16\tp3\tp3\tp3.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1493233479 source:e:\gi01\nf16\tp3\tp3\tp3.c
+	"tp3.h"
+
